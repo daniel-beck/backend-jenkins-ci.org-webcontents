@@ -1,1 +1,3 @@
 Static images and other peripheral resources used by jenkins-ci.org website
+
+Deployed via http://ci.jenkins-ci.org/view/Infrastructure/job/infra_jenkins-ci.org_webcontents/
